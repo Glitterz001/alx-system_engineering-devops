@@ -7,3 +7,4 @@ dispaly current directory content
 create a script directory
 move file
 delete the file
+delete the directory
