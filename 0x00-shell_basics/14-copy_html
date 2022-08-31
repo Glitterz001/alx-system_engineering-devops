@@ -1,2 +1,2 @@
 #!/bin/bash
--u, --update .html ..
+cp -u uodate *.html ..
