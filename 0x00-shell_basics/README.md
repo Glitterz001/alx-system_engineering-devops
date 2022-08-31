@@ -6,3 +6,4 @@ list hidden files
 dispaly current directory content
 create a script directory
 move file
+delete the file
