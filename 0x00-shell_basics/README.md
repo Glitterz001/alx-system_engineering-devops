@@ -12,3 +12,4 @@ change the working directory to the previous one
 list
 file type
 create a symbolic link
+copy html
