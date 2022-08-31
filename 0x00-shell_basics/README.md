@@ -1,1 +1,2 @@
-print path name of the current working directory
+print the name of the current working directory
+display the contents of the current directory
