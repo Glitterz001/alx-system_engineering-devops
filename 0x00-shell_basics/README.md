@@ -14,3 +14,4 @@ file type
 create a symbolic link
 copy html
 let's move
+clean emacs
