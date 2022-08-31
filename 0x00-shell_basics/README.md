@@ -5,3 +5,4 @@ display current directory in a long format
 list hidden files
 dispaly current directory content
 create a script directory
+move file
