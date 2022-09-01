@@ -13,3 +13,4 @@ directories
 more directories
 change group
 owner and group
+symbolic link
