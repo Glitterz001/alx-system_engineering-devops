@@ -1,2 +1,3 @@
 create betty
 username
+groups
