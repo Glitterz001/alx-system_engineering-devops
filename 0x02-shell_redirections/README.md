@@ -7,3 +7,4 @@ i'd prefer
 iacta
 a good file
 save current state
+duplicate
