@@ -15,3 +15,4 @@ findthatword
 count that word
 whats next
 hide this word
+letter only
