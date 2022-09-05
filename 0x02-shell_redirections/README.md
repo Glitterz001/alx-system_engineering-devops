@@ -9,3 +9,4 @@ a good file
 save current state
 duplicate
 no more
+new files
