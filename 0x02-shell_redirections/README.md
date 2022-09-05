@@ -16,3 +16,4 @@ count that word
 whats next
 hide this word
 letter only
+A to Z
