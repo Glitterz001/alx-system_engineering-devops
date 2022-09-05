@@ -18,3 +18,4 @@ hide this word
 letter only
 A to Z
 without c
+reverse
