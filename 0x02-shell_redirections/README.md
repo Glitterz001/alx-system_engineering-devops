@@ -12,3 +12,4 @@ no more
 new files
 unique
 findthatword
+count that word
