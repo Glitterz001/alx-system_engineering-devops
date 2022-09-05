@@ -10,3 +10,4 @@ save current state
 duplicate
 no more
 new files
+unique
