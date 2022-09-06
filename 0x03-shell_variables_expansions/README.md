@@ -7,3 +7,4 @@ Global variable
 true knowledge
 divide and rule
 power of love
+binary
