@@ -10,3 +10,4 @@ power of love
 binary
 combination
 print_float
+decimal
