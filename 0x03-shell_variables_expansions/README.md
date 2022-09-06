@@ -4,3 +4,4 @@ Hello you
 local variables
 Local variable
 Global variable
+true knowledge
