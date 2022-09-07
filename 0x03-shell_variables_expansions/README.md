@@ -1,10 +1,11 @@
 create alias
 Hello you 
 /action
-If the path be beautiful, let us not ask where it leads 
+If the path be beautiful, let us not ask where it leads
+global variable 
 local variables
 Local variable
-Global variable
+global variables
 true knowledge
 divide and rule
 power of love
