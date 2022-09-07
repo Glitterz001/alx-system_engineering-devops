@@ -11,3 +11,4 @@ binary
 combination
 print_float
 decimal
+Everyone is a proponent of strong encryption
