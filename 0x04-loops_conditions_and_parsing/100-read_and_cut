@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Read and extract fields in file
+# Read and cut fields in file
 
 FILE="/etc/passwd"
 
